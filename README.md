@@ -1,4 +1,4 @@
-##  RAG on WFA Specifications using OpenAI Embeddings and Chroma Vector Store 
+##  RAG on WFA Specifications using LangChain and Chroma Vector Store 
 
 This project uses RAG (Retrieval Augmented Generation) to build a question/answering assistant. I have used WFA specifications as base for these documents, but this can be expanded to any other set of documents.
 
